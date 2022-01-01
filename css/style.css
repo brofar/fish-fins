@@ -40,6 +40,47 @@
             align-items: center;
         }
 
+        .qback {
+            background-image: url('../img/BehindCharacters_Q.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .sback {
+            background-image: url('../img/BehindCharacters_S.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .sfback {
+            background-image: url('../img/BehindCharacters_Sfish.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .qfback {
+            background-image: url('../img/BehindCharacters_Qfish.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .qfront {
+            background-image: url('../img/BehindFish_Q.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .sfront {
+            background-image: url('../img/BehindFish_S.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .sffront {
+            background-image: url('../img/BehindFish_Sfish.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .qffront {
+            background-image: url('../img/BehindFish_Qfish.png');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
         .box:active {
             transform: translateY(-10px);
         }
